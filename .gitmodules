@@ -10,3 +10,6 @@
 [submodule "asap7sc7p5t_28"]
 	path = asap7sc7p5t_28
 	url = ../../The-OpenROAD-Project/asap7sc7p5t_28
+[submodule "asap7_pdk_r1p7"]
+	path = asap7_pdk_r1p7
+	url = ../../The-OpenROAD-Project/asap7_pdk_r1p7
