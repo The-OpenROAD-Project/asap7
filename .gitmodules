@@ -1,0 +1,12 @@
+[submodule "asap7_sram_0p0"]
+	path = asap7_sram_0p0
+	url = ../../The-OpenROAD-Project/asap7_sram_0p0
+[submodule "asap7sc6t_26"]
+	path = asap7sc6t_26
+	url = ../../The-OpenROAD-Project/asap7sc6t_26
+[submodule "asap7sc7p5t_27"]
+	path = asap7sc7p5t_27
+	url = ../../The-OpenROAD-Project/asap7sc7p5t_27
+[submodule "asap7sc7p5t_28"]
+	path = asap7sc7p5t_28
+	url = ../../The-OpenROAD-Project/asap7sc7p5t_28
