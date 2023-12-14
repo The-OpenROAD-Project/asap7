@@ -81,6 +81,3 @@ Saurabh Sinha, Lucian Shifren, Brian Cline, Greg Yeric
 **Acknowledgements:**
 
 Mentor Graphics: Tarek Ramadan (for excellent DRC and LVS training at ASU).
-
-
-
