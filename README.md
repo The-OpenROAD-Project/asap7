@@ -2,17 +2,17 @@
 
 ## ASAP7 PDK 
 
-[ASAP7 PDK](https://github.com/The-OpenROAD-Project/asap7/tree/master/asap7PDK_r1p7)
+[ASAP7 PDK](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7/tree/main)
 
 *Current Version: 1.7*
 
-[Instructions for setting-up the PDK](asap7PDK_r1p7/README_ASAP7PDK_INSTALL_201210a.txt)
+[Instructions for setting-up the PDK](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7/blob/main/README_ASAP7PDK_INSTALL_201210a.txt)
 
-[Design Rule Manual](asap7PDK_r1p7/docs/asap7_drm_201207a.pdf)
+[Design Rule Manual](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7/blob/main/docs/asap7_drm_201207a.pdf)
 
 Calibre Decks are not a part of this repository and must be downloaded from [this webpage](http://asap.asu.edu/asap/). Scroll down to the bottom of the linked webpage and click on "Download Calibre Decks Now". Use the "calibre" directory thus downloaded to replace the "calibre" directory provided in this Github repository.
 
-[Calibre Usage Instructions](asap7PDK_r1p7/Calibre_Usage_Instructions.txt)
+[Calibre Usage Instructions](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7/blob/main/Calibre_Usage_Instructions.txt)
 
 **If you use the ASAP7 PDK in any published work, then we would appreciate a citation for the following article:**
 
