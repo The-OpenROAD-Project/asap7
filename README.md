@@ -43,6 +43,10 @@ Sai Charan Rajamani, Sai Varun Krishna Tatipamula, and Lawrence T. Clark.
 
 ASAP7 PDK and libraries have a BSD 3-Clause license. 
 
+## Synopsys Enablement
+
+A user provided enable for Synopsys tools is available at [asap7_snps](https://github.com/snishizawa/asap7_snps).
+
 ## Other Publications
 
 [V. Vashishtha and L. T. Clark, “Comparing bulk-Si FinFET and gate-all-around FETs for the 5 nm technology node,” Microelectronics J., 2020.](https://doi.org/10.1016/j.mejo.2020.104942)
