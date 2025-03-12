@@ -45,7 +45,7 @@ ASAP7 PDK and libraries have a BSD 3-Clause license.
 
 ## Synopsys Enablement
 
-A user provided enable for Synopsys tools is available at [asap7_snps](https://github.com/snishizawa/asap7_snps).
+An ASAP7 user-provided enablement for Synopsys tools is available at [asap7_snps](https://github.com/snishizawa/asap7_snps).
 
 ## Other Publications
 
